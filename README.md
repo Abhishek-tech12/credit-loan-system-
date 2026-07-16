@@ -1,0 +1,1 @@
+in the credit loan system we peroformed machine learing task to find the better accuracy on the diffrent models which will perform better on this type of data and overall the niave bayes model performs best on this type of dataset where precison matters more in the credit loan system 
